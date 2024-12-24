@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mintplexlabs/anythingllm
 #ollama/ollama
-dreamacro/clash
+#dreamacro/clash
+lobehub/lobe-chat
