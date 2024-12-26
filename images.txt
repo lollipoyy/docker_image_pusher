@@ -8,4 +8,5 @@
 #ollama/ollama
 #dreamacro/clash
 #lobehub/lobe-chat
-pgvector/pgvector:pg16
+#pgvector/pgvector:pg16
+postgres:16
