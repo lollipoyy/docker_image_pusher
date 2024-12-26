@@ -7,4 +7,5 @@
 #mintplexlabs/anythingllm
 #ollama/ollama
 #dreamacro/clash
-lobehub/lobe-chat
+#lobehub/lobe-chat
+pgvector/pgvector:pg16
