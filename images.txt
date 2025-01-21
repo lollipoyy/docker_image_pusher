@@ -9,4 +9,5 @@
 #dreamacro/clash
 #lobehub/lobe-chat
 #pgvector/pgvector:pg16
-postgres:16
+#postgres:16
+uozi/nginx-ui:latest
